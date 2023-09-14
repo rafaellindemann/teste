@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Eu sou o windows para celular</Text>
+      <Text>Feito em casa</Text>
       <StatusBar style="auto" />
     </View>
   );
